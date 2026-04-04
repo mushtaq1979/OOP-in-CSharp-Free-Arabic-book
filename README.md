@@ -1,3 +1,9 @@
+  ```markdown
+    ![غلاف كتاب OOP في C#](https://github.com/mushtaq1979/OOP-in-CSharp-Free-Arabic-book/raw/main/cover.png)
+
+
+ 
+
 OOP في لغة C# — كتاب مجاني بالكامل
 
 هذا الكتاب هو دليل شامل ومبسط لفهم البرمجة الكائنية OOP في لغة C#.
