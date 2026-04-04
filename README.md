@@ -19,7 +19,7 @@ OOP في لغة C# — كتاب مجاني بالكامل
 https://github.com/mushtaq1979/OOP-in-CSharp-Free-Arabic-book/blob/main/OOP%20%D9%81%D9%8A%20%D9%84%D8%BA%D8%A9%20C%23.pdf
 
 
-🧩 ماذا ستتعلم من هذا الكتاب؟
+ماذا ستتعلم من هذا الكتاب؟
 فهم ماهية البرمجة الكائنية Object-Oriented Programming
 الكائنات والصفوف (Objects & Classes)
 الخصائص والحقول (Properties & Fields)
@@ -30,7 +30,7 @@ https://github.com/mushtaq1979/OOP-in-CSharp-Free-Arabic-book/blob/main/OOP%20%D
 البناء Constructors
 الـ Interfaces
 الأمثلة العملية بلغة C# وفق الإصدار الجديد
-🎯 لماذا كتبت هذا الكتاب؟
+لماذا كتبت هذا الكتاب؟
 
 لجعل مفاهيم OOP سهلة وواضحة للمبرمج العربي، مع أمثلة حديثة بلغة C#
 وبأسلوب مبسط يناسب كل المستويات.:
