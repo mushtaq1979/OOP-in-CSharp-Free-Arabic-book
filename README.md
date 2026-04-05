@@ -1,5 +1,5 @@
 ```markdown
-![غلاف كتاب OOP في C#](https://raw.githubusercontent.com/mushtaq1979/OOP-in-CSharp-Free-Arabic-book/main/cover.png)
+![غلاف كتاب OOP في C#](https://github.com/mushtaq1979/OOP-in-CSharp-Free-Arabic-book/raw/main/OOP%20%D9%81%D9%8A%20%D9%84%D8%BA%D8%A9%20C%23.pdf)
 
 # OOP في لغة C# — كتاب مجاني بالكامل
 
